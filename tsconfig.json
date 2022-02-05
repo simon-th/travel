@@ -19,6 +19,7 @@
     ".eslintrc.js",
     "next-env.d.ts",
     "next.config.js",
+    "tailwind.config.js",
     "**/*.ts",
     "**/*.tsx"
   ],
